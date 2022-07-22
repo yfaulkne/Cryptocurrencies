@@ -5,3 +5,8 @@
 ##### 2. Hierachical clustering and K clustering
 ##### 3. Reducing dimensions and Principal components
 ##### 4. Visualizing the data
+---
+---
+##### Below is an image of the 3D scatterplot created as a visulaization of the 3 clusters that the cryptocurrencies were grouped into:
+---
+![](https://github.com/yfaulkne/Cryptocurrencies/blob/main/Images/3D_scatter.png)
